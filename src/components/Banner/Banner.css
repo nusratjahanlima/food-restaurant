@@ -1,0 +1,8 @@
+.banner{
+    margin-top: 20px;
+    height: 500px;
+}
+
+.banner-item img{
+    object-fit: cover;
+}
